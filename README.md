@@ -41,5 +41,5 @@ This website allows users to locate the closest ski resort from their current lo
 * _tumpowskydavid@gmail.com - David Tumpowsky_
 
 ### License
-Copyright (c) 2018 Randy Weyer, Brian Henry, Justin Roller, Dave Tumpowsky.
+Copyright (c) 2018 Randy Weyer, Brian Henry, Justin Roller, David Tumpowsky.
 This software is licensed under the MIT license.
